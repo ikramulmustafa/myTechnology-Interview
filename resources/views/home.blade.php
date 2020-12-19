@@ -14,7 +14,6 @@
                         </div>
                     @endif
 
-                    {{ __('You dont seem to be an admin!') }}
                     {{ __('You are logged in!') }}
                 </div>
             </div>
